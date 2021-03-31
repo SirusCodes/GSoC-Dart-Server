@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Fira+Mono:wght@400;500;700&display=swap');
+
+body {
+    background-color: black;
+    color: white;
+    font-family: 'Fira Mono', monospace;
+    padding: 0% 20%;
+}
+
+a:link{
+    color: cyan;
+}
+
+a:visited{
+    color: darkcyan;
+}
